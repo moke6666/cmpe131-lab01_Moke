@@ -1,1 +1,3 @@
-# Contributors for the project: zack
+<<<<<<< HEAD
+# Contributors for the project: zack, Moke Wu
+
